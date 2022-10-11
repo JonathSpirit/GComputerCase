@@ -1,0 +1,37 @@
+https://www.te.com/usa-en/product-5-5530843-4.html
+Peripheral Eurocard 5-5530843-4 :
+    - Pin 1 to end of the connector plastic = (2.260[A]-1.900[D]) / 2 = 0.18 inches
+                                                                      = 4.572 mm
+    
+    - End of the connector plastic to MOM1_SPS1 card border = 7-4.572 = 2.428 mm
+    
+    - End of card slot to end of the connector plastic = (2.260[A]-2.100[C]) / 2 = 0.08 inches
+                                                                                 = 2.032 mm
+    
+*   - End of card slot to MOM1_SPS1 card border = 7-2.5 = 4.5 mm
+    
+    - Extra peripheral card size = 20-4.5[*] = 15.5 mm
+
+
+- Board thickness + column = 14 mm
+PCB Thickness: 1.6
+column: 12.4
+
+
+- Total (inside) height 80[peripheral max height] mm + 5[extra ceil] mm + 17[peripheral min height] = 102 mm
+
+- Peripheral hole : 41mm by 15mm, begin height of 30mm
+
+height : 51+5mm
+
+DESCRIPTION :
+8 parts will be created, 4 down parts and 4 up parts.
+
+- 1) view : top peripheral down, down right part "firstPartPeripherals"
+    
+- 2) view : top peripheral down, down left part "secondPartPeripherals"
+    
+- 3) view : top processor up, up left part "secondPartProcessor"
+    
+insert : https://www.3djake.ch/fr-CH/3djake/inserts-filetes-lot-de-50
+
